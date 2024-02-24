@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Washington Medeiros
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me: Instagram
 - 😄 Age: 19 Years old
 - ⚡ Fun fact: I'm a pedreiro de softwere
