@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Washington Medeiros,19 year old
-- 📫 How to reach me: Instagram
+- 👋 Hi, I’m Washington Medeiros, 19 year old
 - ⚡ Fun fact: I'm a pedreiro de softwere
 
 <!---
