@@ -1,11 +1,11 @@
-# 👨🏼‍💻 Washington Medeiros
+# 👨🏻‍💻 Washington Medeiros
 
 👋 Me chamo **Washington Medeiros** e sou um entusiasta da tecnologia com 20 anos, natural de Alagoas. Atualmente, estou cursando **Ciência da Computação** na **Universidade Federal de Alagoas (UFAL)**.
 
   ---
 
 <div>
-  <img align="center" alt="GitHub Stats" height="170" style="padding-right: 10px;" 
+  <img align="left" alt="GitHub Stats" height="170" style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=washingmg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
   <img align="center" alt="GitHub Stats" height="170" 
